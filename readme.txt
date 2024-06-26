@@ -66,4 +66,4 @@
     ->docker rm calciContainer
 
     //To remove image 
-    ->docker rm calci:v1
+    ->docker rmi calci:v1
