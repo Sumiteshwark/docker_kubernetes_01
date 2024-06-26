@@ -40,7 +40,7 @@
     ->docker rm nodeContainer
 
     //To remove image 
-    ->docker rm node:v1
+    ->docker rmi node:v1
 
 
 2) For calci folder
